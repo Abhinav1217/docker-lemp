@@ -1,3 +1,5 @@
+Forked from atillat repo. Modified to use default docker images instead of one mainained by atillay. Rest everything is same.
+
 # DOCKER LEMP
 - Nginx
 - PHP 7.2-fpm
